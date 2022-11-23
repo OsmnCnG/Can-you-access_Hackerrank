@@ -13,15 +13,10 @@ public class Solution {
 
         Solution.Inner.powerof2(num);
 
-
     }
 
 
     private static class Inner{
-
-        /*public Inner(){
-            powerof2(num);
-        }*/
 
         public static void powerof2(int num){
             int[] temp=new int[31];
